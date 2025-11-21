@@ -47,4 +47,4 @@ It includes step-by-step instructions, screenshots, and configurations for **lea
 
 ---
 
-*This README is part of a home lab project for learning and experimenting with virtual machines and Ubuntu Server.*
+
